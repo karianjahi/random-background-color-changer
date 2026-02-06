@@ -19,5 +19,5 @@ colorButton.addEventListener("click", () => {
         currentColor.style.color = "white";
         header.style.color = "white";
     }
-    currentColor.textContent = `Hex Code: ${randomColor}`
+    currentColor.textContent = `Hex Code: ${randomColor}` // show color
 });
