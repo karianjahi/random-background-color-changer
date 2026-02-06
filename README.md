@@ -10,6 +10,11 @@ A simple and interactive web project that changes the background color of the pa
 
 ---
 
+
+---
+🌐 **[Live Demo](https://josephnjeri.github.io/random-background-color-changer/)**
+---
+
 ## ✨ Features
 
 - 🎲 Random background color generation
